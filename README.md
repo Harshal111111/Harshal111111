@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshal111111
-- 👀 I’m interested in learning coding skills
-- 🌱 I’m currently learning python
+- 👀 I’m interested in learning Devops.
+- 🌱 I’m currently working as Ruby On Rails Developer..........
 - 💞️ I’m looking to collaborate n ...
 - 📫 How to reach me bordiaharshal@gmail.com 
 
