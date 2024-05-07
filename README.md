@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in [Webkorps](https://www.webkorps.com/#/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LGIIz7Ew5BnzPVrje0faOB_7PVVtTH66/view?usp=sharing](https://drive.google.com/file/d/1LGIIz7Ew5BnzPVrje0faOB_7PVVtTH66/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LGIIz7Ew5BnzPVrje0faOB_7PVVtTH66/view?usp=sharing)
 
 - ⚡ Fun fact **I'm Funny 😁**
 
